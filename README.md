@@ -11,7 +11,7 @@ I'm Nitesh from India, and I am a Cloud Practitioner, Programmer, Video Editor, 
 * 📊 Dash Framework, Plotly, Pandas, Numpy
 
 ## Publication - Check out my Book
-### [SERVER OPERATING SYSTEM - PRACTICAL RESOLVED](https://www.amazon.in/dp/B08DN24G5P 
+### [SERVER OPERATING SYSTEM - PRACTICAL RESOLVED](https://www.amazon.in/dp/B08DN24G5P) 
 The book "Server Operating System - Practical Resolved" primarily focused on Practical content and less theory. This book is the form of Server Operating System Notes taught in academic. In this book I used English language with combination of Laymen terms for better understanding. As the Auther of this book and also a Cloud Computing student, I write what I learned in my academics in this book. So Hope after purchasing you will find this helpful.
 
 - 🔭 I’m currently working at TCS 
