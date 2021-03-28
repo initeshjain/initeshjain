@@ -42,4 +42,3 @@ The book "Server Operating System - Practical Resolved" primarily focused on Pra
 * Data Management in the Cloud 
 * AWS Fundamentals: Building Serverless Applications 
 * AWS Fundamentals: Going Cloud-Native 
-*
