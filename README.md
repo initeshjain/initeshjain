@@ -25,11 +25,9 @@ The book "Server Operating System - Practical Resolved" primarily focused on Pra
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/readthedocs.svg' alt='Resume' height='40'>](https://drive.google.com/file/d/1PchoDGcKEq4ySianstfoJRhEHRy8De8-/view?usp=sharing)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/initeshjain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/initeshjain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/techpy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](techpy.in)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'>](https://drive.google.com/file/d/1tkxeXQCy5sgh2Gz5iq1QARe5xK1Ekj3c/view)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=initeshjain)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=initeshjain)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=initeshjain&show_icons=true)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=initeshjain&show_icons=true)  
-
-## Certification - I have a lot (This is result of LOCKDOWN 😂)
+## Certifications - I have a lot (This is result of LOCKDOWN 😂)
 * AWS Cloud Practitioner 
 * Machine Learning for All 
 * Using Python to Access Web Data 
@@ -44,4 +42,4 @@ The book "Server Operating System - Practical Resolved" primarily focused on Pra
 * Data Management in the Cloud 
 * AWS Fundamentals: Building Serverless Applications 
 * AWS Fundamentals: Going Cloud-Native 
-
+*
