@@ -1,4 +1,4 @@
-![AWS Cloud Practitioner](https://github.com/initeshjain/initeshjain/blob/main/Banner_1500x500.png)
+![AWS Cloud Practitioner](https://github.com/initeshjain/initeshjain/blob/main/LinkedIn Banner (1).png)
 
 # Nitesh Jain
 I'm Nitesh from India, and I am a Cloud Practitioner, Programmer, Video Editor, YouTuber. I also enjoy wireframing, ui, ux, and design in general. 
