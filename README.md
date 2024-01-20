@@ -1,33 +1,42 @@
 <!-- ![AWS Cloud Practitioner](https://github.com/initeshjain/initeshjain/blob/main/NewBanner.png) -->
 
 # Nitesh Jain
-I'm Nitesh from India, and I am a Cloud Practitioner, Programmer, Video Editor, YouTuber. I also enjoy wireframing, ui, ux, and design in general. 
+Hello, I'm Nitesh, a DevOps and Software Engineer, with 3 years of experience in the IT field. I specialize in cloud computing and Software development; and am passionate about developing new things that can help masses. Throughout my career, I've had the privilege of leading successful projects that have made a positive impact on my organization and its stakeholders. I'm known for my sense of humour and positive attitude, which create a fun and collaborative work environment and make me easy to work with. I also have a proven track record of reducing costs and improving efficiency through process optimisation and automation.
 
-## Skills and Experience
-* ☁ AWS, Azure, Heroku
-* 🔥 Python, Java, C++
-* 💻 HTML, CSS, JS, Jquery
-* 🎥 Premiere Pro, Filmora
-* 📊 Dash Framework, Plotly, Pandas, Numpy
+When I'm not working, you can find me watching movies or working on side projects. I'm also a firm believer in work-life balance and strive to make time for the things I love outside of work.
+
+If you're interested in learning more about my professional background, feel free to check out my LinkedIn profile or visit my portfolio website (initeshjain.github.io). I look forward to connecting with you!
+
+### Skills:
+- Python
+- Powershell
+- React Js
+- Next Js
+- React Native
+- Golang
+
+### Cloud:
+- AWS (Amazon Web Services)
+- Azure
+- Heroku
+
 
 ## Publication - Check out my Book
-### [SERVER OPERATING SYSTEM - PRACTICAL RESOLVED](https://www.amazon.in/dp/B08DN24G5P) 
+### [SERVER OPERATING SYSTEM - PRACTICAL RESOLVED](https://amzn.to/3v37FAm) 
 The book "Server Operating System - Practical Resolved" primarily focused on Practical content and less theory. This book is the form of Server Operating System Notes taught in academic. In this book I used English language with combination of Laymen terms for better understanding. As the Auther of this book and also a Cloud Computing student, I write what I learned in my academics in this book. So Hope after purchasing you will find this helpful.
 
-## Currents
-- 🔭 I’m currently working at TCS 
-- 🌱 I’m currently learning Azure, UX & UI
-- 👯 I’m looking to collaborate on Data Science projects 
-- 💬 Ask me about Tech 
-- 📫 How to reach me: mailto: nitesh.exe@gmail.com 
-- ⚡ Fun fact: There is no fun fact about me 😁. 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/readthedocs.svg' alt='Resume' height='40'>](https://niteshj.page.link/resume)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/initeshjain) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/initeshjain/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/initeshjain)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/initeshjain/) 
 
-![Profile views](https://gpvc.arturio.dev/initeshjain) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/readthedocs.svg' alt='Resume' height='40'>](https://drive.google.com/file/d/1PchoDGcKEq4ySianstfoJRhEHRy8De8-/view?usp=sharing)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/initeshjain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/initeshjain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/techpy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/initeshjain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](techpy.in)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='40'>](https://drive.google.com/file/d/1tkxeXQCy5sgh2Gz5iq1QARe5xK1Ekj3c/view)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=initeshjain)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=initeshjain&show_icons=true)  
 
-## Certifications - I have a lot (This is result of LOCKDOWN 😂)
+## Certifications
+* VSkills Golang Professional
+* Azure Administrator Associate
+* Azure 900
 * AWS Cloud Practitioner 
 * Machine Learning for All 
 * Using Python to Access Web Data 
